@@ -1,1 +1,2 @@
 git branch is the command to create new branch
+another way to create branch is by using command git checkout -b
