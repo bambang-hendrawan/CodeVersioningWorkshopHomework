@@ -1,0 +1,1 @@
+git merge is the command used to merge branch
