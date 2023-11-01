@@ -1,2 +1,3 @@
 git merge is the command used to merge branch
 to review changes prior to merge, we can use git hub pull request feature
+if using pull request, another person should approve the changes before the changes can be merged
